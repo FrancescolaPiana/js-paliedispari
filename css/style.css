@@ -77,3 +77,18 @@ body{
     gap: 15px;
 }
 
+#btn{
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 10px 30px;
+}
+
+#cell{
+    margin-top: 50px; 
+    text-align: center;
+}
+
+#response{
+    margin-top: 50px; 
+    color: white;
+}
